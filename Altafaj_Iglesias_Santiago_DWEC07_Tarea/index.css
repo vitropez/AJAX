@@ -1,0 +1,46 @@
+#contenedor {
+    display: flex;
+    width: auto;
+    height: 900px;
+    background-color: red;
+    align-items: center;
+    background-image: url("img/foto3.jpeg");
+    background-size: cover;
+    justify-content: space-between;
+
+
+}
+
+
+#datos li {
+
+    cursor: pointer;
+    width: 100px;
+    text-decoration: underline;
+}
+
+
+#contenedor-sub {
+    width: 600px;
+    height: 600px;
+    font: 1em sans-serif;
+    color: chartreuse;
+    background-image: url("img/foto1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: scroll;
+
+}
+
+#contenedor-dat {
+    width: 600px;
+    height: 600px;
+    background-color: blue;
+    font-size: xx-large;
+    font-style: italic;
+    color: chocolate;
+    background-image: url("img/foto2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}

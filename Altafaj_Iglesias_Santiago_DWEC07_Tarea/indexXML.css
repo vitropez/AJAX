@@ -1,0 +1,120 @@
+#contenedor {
+    width: auto;
+    height: auto;
+    background-color: yellow;
+
+
+}
+
+table {
+
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 1em;
+    font-family: sans-serif;
+    min-width: 450px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+
+
+}
+
+.tablaUno tr {
+
+    background-color: #980081;
+    color: #ffffff;
+    text-align: middle;
+    border: 1px solid #ccc;
+    padding: 5px;
+
+}
+
+td {
+    border: 1px solid #ccc;
+    padding: 5px;
+
+}
+
+
+
+.tablaDos tr {
+    background-color: brown;
+    color: #ffffff;
+    text-align: middle;
+    border: 1px solid #ccc;
+    padding: 5px;
+
+
+}
+
+.tablaTres tr {
+    background-color: grey;
+    color: #ffffff;
+    text-align: middle;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+.tablaCuatro tr {
+    background-color: pink;
+
+    text-align: middle;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+.tablaCinco tr {
+    background-color: violet;
+
+    text-align: middle;
+    border: 1px solid #ccc;
+    padding: 5px;
+    ;
+
+
+}
+
+.tablaSeis tr {
+    background-color: black;
+    color: white;
+    text-align: middle;
+    border: 1px solid #ccc;
+    padding: 5px;
+
+
+
+
+}
+
+.tablaOcho tr {
+    background-color: red;
+    color: white;
+    text-align: middle;
+    border: 1px solid #ccc;
+    padding: 5px;
+
+
+}
+
+header,
+footer {
+    height: 30px;
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    font-size: x-large;
+    border: 2px solid #ccc;
+    padding: 5px;
+
+}
+
+button {
+
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+
+}
